@@ -4,11 +4,11 @@ Repositório do grupo 6 😄
 ---
 
 Grupo
-- juanbelieni
-- iaracastro
-- gabriel
-- palomavb
-- Lf Laguardia
+- [Juan](https://github.com/juanbelieni)
+- [Iara](https://github.com/iaracastro)
+- [Gabriel](https://github.com/Gab-Mel)
+- [Paloma](https://github.com/palomavb)
+- [Lf Laguardia](https://github.com/lfzinho)
 
 ---
 
