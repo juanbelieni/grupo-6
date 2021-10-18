@@ -7,6 +7,7 @@ Grupo
 - juanbelieni
 - iaracastro
 - gabriel
+- palomavb
 
 ---
 
