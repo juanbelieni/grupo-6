@@ -6,6 +6,8 @@ Repositório do grupo 6 😄
 Grupo
 - juanbelieni
 - iaracastro
+- gabriel
+
 ---
 
 ```
